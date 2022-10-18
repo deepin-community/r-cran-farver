@@ -1,0 +1,27 @@
+r-cran-farver (2.1.0-1) unstable; urgency=medium
+
+  * New upstream version
+  * Standards-Version: 4.6.0 (routine-update)
+  * debhelper-compat 13 (routine-update)
+  * Rules-Requires-Root: no (routine-update)
+
+ -- Andreas Tille <tille@debian.org>  Mon, 20 Sep 2021 07:48:39 +0200
+
+r-cran-farver (2.0.3-1) unstable; urgency=medium
+
+  * New upstream version
+  * Standards-Version: 4.5.0 (routine-update)
+
+ -- Andreas Tille <tille@debian.org>  Thu, 23 Jan 2020 11:55:52 +0100
+
+r-cran-farver (2.0.1-2) unstable; urgency=medium
+
+  * Set upstream metadata fields: Bug-Submit, Repository.
+
+ -- Andreas Tille <tille@debian.org>  Thu, 26 Dec 2019 08:31:30 +0100
+
+r-cran-farver (2.0.1-1) unstable; urgency=medium
+
+  * Initial release (closes: #945060)
+
+ -- Andreas Tille <tille@debian.org>  Tue, 19 Nov 2019 08:06:03 +0100
